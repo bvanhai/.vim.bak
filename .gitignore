@@ -1,0 +1,6 @@
+tags
+tags-ja
+.flagged
+init.vim
+sessions/
+bundle/*.tmp
